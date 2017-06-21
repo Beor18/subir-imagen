@@ -1,0 +1,11 @@
+{
+  "name": "subir-imagen",
+  "version": "1.0.0",
+  "description": "subir imagen con nodejs, mongodb, express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fernando lopez",
+  "license": "ISC"
+}
